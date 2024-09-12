@@ -19,6 +19,12 @@ I believe that Data Science has the power to speed up the way we solve society/c
 * [LinkedIn](https://www.linkedin.com/in/eduardoamar%C3%A7al/)
 * [Medium](https://medium.com/@eamr.rio)
 
+**No que estou Trabalhando:**
+Currently, I am focused on:
+
+Learning the courses present on the Academia Sigmoidal platform.
+
+
 
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
