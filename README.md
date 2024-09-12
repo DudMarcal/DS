@@ -9,10 +9,10 @@
 
 I'm Eduardo, a technology enthusiast and Data Science student committed to creating innovative solutions that generate value. My desire to solve problems and build projects that generate results and returns drives me to constantly learn and apply the latest knowledge in my creations.
 
-**💡About Me:** 
+**About Me:** 
 Electronic Technician, Technologist in Systems Analysis and Development and Postgraduate in Data Science from Academia Sigmoidal.
 
-**🚀 My Goal:**
+**My Goal:**
 I believe that Data Science has the power to speed up the way we solve society/company problems. Therefore, my goal is to actively participate and collaborate to generate value for society and companies. Therefore, I am always looking for complex challenges that allow me to grow as a Data Scientist
 **Links:**
 * [Blog]()
