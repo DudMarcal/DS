@@ -16,7 +16,7 @@ Electronic Technician, Technologist in Systems Analysis and Development and Post
 I believe that Data Science has the power to speed up the way we solve society/company problems. Therefore, my goal is to actively participate and collaborate to generate value for society and companies. Therefore, I am always looking for complex challenges that allow me to grow as a Data Scientist
 **Links:**
 * [Blog]()
-* [LinkedIn](https://www.linkedin.com/in/eduardoamar)
+* [LinkedIn](https://www.linkedin.com/in/eduardoamar%C3%A7al/)
 * [Medium](https://medium.com/@eamr.rio)
 
 
