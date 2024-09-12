@@ -10,12 +10,12 @@
 I'm Eduardo, a technology enthusiast and Data Science student committed to creating innovative solutions that generate value. My desire to solve problems and build projects that generate results and returns drives me to constantly learn and apply the latest knowledge in my creations.
 
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**💡About Me:** Electronic Technician, Technologist in Systems Analysis and Development and Postgraduate in Data Science from Academia Sigmoidal.
 
 **Links:**
-* [Blog](https://sigmoidal.ai)
+* [Blog]()
 * [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@eamr.rio)
 
 
 ## Projetos:
