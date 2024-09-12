@@ -7,7 +7,7 @@
 # Eduardo Amandia Marçal Rodrigues
 <sub>*Beginner Data Scientist* at Brazilian Air Force </sub>
 
-I'm a technology enthusiast and Data Science student committed to creating innovative solutions that generate value. My desire to solve problems and build projects that generate results and returns drives me to constantly learn and apply the latest knowledge in my creations.
+I'm a technology enthusiast and Data Science student committed to creating innovative solutions that generate value. My desire to solve problems and build projects that generate results drives me to constantly learn and apply the acquired knowledge in my creations.
 
 **About Me:** 
 Electronic Technician, Technologist in Systems Analysis and Development and Postgraduate in Data Science from Academia Sigmoidal.
