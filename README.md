@@ -36,10 +36,7 @@ If you are looking for a motivated, creative Data Scientist who likes to work in
 
 
 
-## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
-* **Analisando os Dados do Airbnb- Genebra**
 
 
 ---
