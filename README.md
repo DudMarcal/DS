@@ -30,7 +30,6 @@ If you are looking for a motivated, creative Data Scientist who likes to work in
 
 
 **Links:**
-* [Blog]()
 * [LinkedIn](https://www.linkedin.com/in/eduardoamar%C3%A7al/)
 * [Medium](https://medium.com/@eamr.rio)
 
